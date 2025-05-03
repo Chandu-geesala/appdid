@@ -1,16 +1,22 @@
-# appdid
+# AppDid 🍽️
 
-Task
+A simple Flutter app that fetches and displays meal categories and details using [TheMealDB API](https://www.themealdb.com/).
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- 🗂️ Browse meal categories
+- 🔍 Search for meals by name
+- 🎲 Get a random meal suggestion
+- 📄 View detailed information about a meal
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Getting Started 🚀
+
+To run this project locally:
+
+### Prerequisites
+- Flutter SDK installed ([Install Flutter](https://docs.flutter.dev/get-started/install))
+- Android Studio or VS Code
+- An emulator or physical device
+
