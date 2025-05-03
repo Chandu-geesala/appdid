@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "758403667131",
+    "project_id": "app-did-e198a",
+    "storage_bucket": "app-did-e198a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758403667131:android:40b88d65d07811f828059e",
+        "android_client_info": {
+          "package_name": "com.chandu.appdid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758403667131-dlpdfonmkug9vfl6g0kii92fje068leh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandu.appdid",
+            "certificate_hash": "62b4b65fe4cebdb9b001e729fbba6eb793b69c5c"
+          }
+        },
+        {
+          "client_id": "758403667131-qutmole55ndj9r1rdnf1doep9f60dhrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chandu.appdid",
+            "certificate_hash": "359c878fb1d74054292eb6aa22f34c1d507dd808"
+          }
+        },
+        {
+          "client_id": "758403667131-9rcf2thhih2rmsejvblu6kq4o1ivb46k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFP11WDl8QxDMI50bWqb--iqyXkWybGR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758403667131-9rcf2thhih2rmsejvblu6kq4o1ivb46k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "758403667131-eebq1u2dkj96qt73htf4tqias392sdr3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chandu.appdid"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
